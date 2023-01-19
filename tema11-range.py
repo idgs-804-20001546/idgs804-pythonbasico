@@ -1,3 +1,4 @@
+
 numeros = range(5)
 
-print(numeros)
+print(numeros[2])
